@@ -1,4 +1,4 @@
-i used django and djangorestframework to complete the assignment
+Used django and djangorestframework for this project
 
 first i setup the database for setting up database i used pandas to load data from csv file and create objects and used bulk_create option so write in database
 
